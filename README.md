@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in Java programming: the off-by-one error.  The `bug.java` file contains code with this error, resulting in an `ArrayIndexOutOfBoundsException`. The corrected version is provided in `bugSolution.java`.  This example highlights the importance of carefully checking array index boundaries in loops.
